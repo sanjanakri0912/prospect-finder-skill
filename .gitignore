@@ -1,0 +1,7 @@
+.env
+mcp_config.json
+*.key
+*secret*
+node_modules/
+__pycache__/
+.playwright-mcp/
